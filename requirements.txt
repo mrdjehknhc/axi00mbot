@@ -1,0 +1,6 @@
+aiogram==3.22.0
+axiomtradeapi
+python-dotenv
+requests
+schedule
+aiohttp
